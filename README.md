@@ -1,5 +1,3 @@
-bizarre-trump
-
 # WTF Donald 
 
 - Trump unable to name one verse from 'favourite book' The Bible ([Video](https://www.youtube.com/watch?v=ERUngQUCsyE))
