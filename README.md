@@ -1,5 +1,7 @@
 # WTF Donald 
 
+A curated list of the most WTF Trump moments.
+
 - Trump's announcement of al-Baghdadi killing compared to Obama announcing the death of Bin Laden ([Video](https://www.youtube.com/watch?v=OsBOWSjOLsE))
 
 - Trump's bizarre CDC visit ([Video](https://www.youtube.com/watch?v=P3nkxrECHKM))
