@@ -1,6 +1,6 @@
 # WTF Donald 
 
-A curated list of the most WTF Trump moments.
+A curated list of the most bizarre Trump moments.
 
 - Trump's announcement of al-Baghdadi killing compared to Obama announcing the death of Bin Laden ([Video](https://www.youtube.com/watch?v=OsBOWSjOLsE))
 
@@ -30,4 +30,4 @@ A curated list of the most WTF Trump moments.
 
 - Trump yelling at lawnmower boy ([Picture](https://i.kym-cdn.com/entries/icons/original/000/026/076/DJyXbYEUMAAgt2R.jpg))
 
-Suggestions? Please add a PR [here](https://github.com/dhaitz/bizarre-trump).
+Suggestions? Please add via [here](https://github.com/dhaitz/bizarre-trump).
