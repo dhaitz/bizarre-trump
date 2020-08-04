@@ -8,6 +8,8 @@ A curated list of the most bizarre Trump moments.
 
 - Trump suggests nuking hurricanes ([Article](https://www.theguardian.com/us-news/2019/aug/26/donald-trump-suggests-nuking-hurricanes-to-stop-them-hitting-america-report))
 
+- Trump's bewildering interview about COVID-19 case and death numbers ([Video](https://twitter.com/axios/status/1290497186489348096?s=20))
+
 - Trump's awkward remark during Kim Jong-un visit ([Video](https://www.youtube.com/watch?v=v69rOJi8yik))
 
 - Trump unable to name one verse from 'favourite book' The Bible ([Video](https://www.youtube.com/watch?v=ERUngQUCsyE))
